@@ -20,3 +20,4 @@
 </p>
 <h2> Contact </h2>
 <a href="mailto:radeknycz98@gmail.com"><img src="https://cdn4.iconfinder.com/data/icons/aiga-symbol-signs/439/aiga_mail-512.png" alt="radeknycz98@gmail.com" height="60" /></a>
+<h4>Check out my projects below and in the repositories tab</h4>
