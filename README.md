@@ -16,6 +16,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/360px-React-icon.svg.png" alt="React" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/225px-Node.js_logo.svg.png" alt="Node" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express" height="60"/>
+<img src="https://brandfetch.com/_next/image?url=https%3A%2F%2Fasset.brandfetch.io%2FidIq_kF0rb%2Fidv3zwmSiY.jpeg&w=1920&q=75" alt="Cypress" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/225px-Npm-logo.svg.png" alt="NPM" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/225px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" height="60"/>
 <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt="Git" height="60"/>
